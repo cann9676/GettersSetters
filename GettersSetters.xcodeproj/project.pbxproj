@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83B47F4628A20C4E002CA592 /* Vehicle.m in Sources */ = {isa = PBXBuildFile; fileRef = 83B47F4528A20C4E002CA592 /* Vehicle.m */; };
 		83C5CBEF28A0E3EA001C13D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 83C5CBEE28A0E3EA001C13D4 /* AppDelegate.m */; };
 		83C5CBF228A0E3EA001C13D4 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 83C5CBF128A0E3EA001C13D4 /* SceneDelegate.m */; };
 		83C5CBF528A0E3EA001C13D4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83C5CBF428A0E3EA001C13D4 /* ViewController.m */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		83B47F4428A20C4E002CA592 /* Vehicle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vehicle.h; sourceTree = "<group>"; };
+		83B47F4528A20C4E002CA592 /* Vehicle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Vehicle.m; sourceTree = "<group>"; };
 		83C5CBEA28A0E3EA001C13D4 /* GettersSetters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GettersSetters.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83C5CBED28A0E3EA001C13D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		83C5CBEE28A0E3EA001C13D4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -61,6 +64,8 @@
 		83C5CBEC28A0E3EA001C13D4 /* GettersSetters */ = {
 			isa = PBXGroup;
 			children = (
+				83B47F4428A20C4E002CA592 /* Vehicle.h */,
+				83B47F4528A20C4E002CA592 /* Vehicle.m */,
 				83C5CBED28A0E3EA001C13D4 /* AppDelegate.h */,
 				83C5CBEE28A0E3EA001C13D4 /* AppDelegate.m */,
 				83C5CBF028A0E3EA001C13D4 /* SceneDelegate.h */,
@@ -150,6 +155,7 @@
 				83C5CBEF28A0E3EA001C13D4 /* AppDelegate.m in Sources */,
 				83C5CC0028A0E3EB001C13D4 /* main.m in Sources */,
 				83C5CBF228A0E3EA001C13D4 /* SceneDelegate.m in Sources */,
+				83B47F4628A20C4E002CA592 /* Vehicle.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
